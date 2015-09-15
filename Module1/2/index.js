@@ -1,12 +1,10 @@
 $(function () {
 
 
-	//read json from url
 	$.ajax({
-		url: "http://it-ebooks-api.info/v1/book/2563063616",
-		dataType: 'json'
-	}).done(function(value) {
-
+			url: "http://it-ebooks-api.info/v1/book/2563063616",
+			dataType: 'json',
+			success: function(value) {
 
 			//get data from file
 			var title = value.Title;
@@ -23,9 +21,8 @@ $(function () {
 			//form list element for each book
 			//var content = "<div class=\"book\" id=\"" + isbn + "\"></div>";
 			//$(".main-list").append(content);
-			
+
 			$(".title").html(title);
-			$("title").html(title);
 
 			var left = ".main-img";
 			var right = ".main-content";
@@ -93,9 +90,7 @@ $(function () {
 				$(right).append(bookDownload);
 			}
 
-
+		}
 	});
-
-
 
 });
