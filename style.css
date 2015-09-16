@@ -41,6 +41,17 @@ html{
 
 a{
 	text-decoration: none;
+	font-size: 1.2em;
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
+
+a:hover{
+	color: green;
+	font-weight: bold;
 }
 
 li{
@@ -53,11 +64,14 @@ li{
 }
 
 .page{
+	margin: 20px 0;
 }
 
 .module-title{
 	font-size: 2em;
 	color: #0E741F;
+	margin-bottom: 0;
 }
+
 
 
