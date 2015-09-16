@@ -11,7 +11,7 @@ html{
 	position: fixed;
 	width: 100%;
 	height: 10%;
-	background-color: #1B64DE;
+	background-color: #422e83;
 	left: 0;
 	top: 0;
 	z-index: 3;
@@ -62,7 +62,7 @@ html{
 .book-subtitle{
 	margin-top: 0;
 	font-size: 1.25em;
-	color: #1B64DE;
+	color: #422e83;
 }
 
 .book-desc{
@@ -81,6 +81,19 @@ html{
 
 .details{
 	color: #1B64DE;
+}
+
+a{
+    text-decoration: none;
+}
+
+.toc{
+    padding: 0;
+}
+
+.toc-li{
+    list-style: none;
+    margin-left: 5%;
 }
 
 @media (max-width: 800px) {
