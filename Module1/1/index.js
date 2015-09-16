@@ -7,7 +7,7 @@ $(function () {
 	$(".container-singe").hide();
 
 	$.ajax({
-			url: "http://it-ebooks-api.info/v1/search/modern%20web",
+			url: "book.json",
 			dataType: 'json'
 		}).done(function(data) {
 

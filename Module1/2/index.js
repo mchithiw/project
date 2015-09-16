@@ -2,7 +2,7 @@ $(function () {
 
 
 	$.ajax({
-			url: "http://it-ebooks-api.info/v1/book/2563063616",
+			url: "book.json",
 			dataType: 'json',
 			success: function(value) {
 
