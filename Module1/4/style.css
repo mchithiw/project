@@ -75,12 +75,12 @@ html{
 
 .category{
 	font-size: 1.25em;
-	color: #0553C9;
+	color: #422e83;
 	font-weight: bold;
 }
 
 .details{
-	color: #1B64DE;
+	color: #422e83;
 }
 
 a{
@@ -94,6 +94,7 @@ a{
 .toc-li{
     list-style: none;
     margin-left: 5%;
+    padding: 0 5px;
 }
 
 @media (max-width: 800px) {
