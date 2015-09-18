@@ -1,0 +1,104 @@
+<Item>
+    <ASIN>076243631X</ASIN>
+    <DetailPageURL>http://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X</DetailPageURL>
+    <SalesRank>7483</SalesRank>
+    <ItemAttributes>
+        <Author>Lal Hardy</Author>
+        <Binding>Paperback</Binding>
+        <DeweyDecimalNumber>391.65</DeweyDecimalNumber>
+        <EAN>9780762436316</EAN>
+        <Feature>ISBN13: 9780762436316</Feature>
+        <Feature>Condition: New</Feature>
+        <ISBN>076243631X</ISBN>
+        <Manufacturer>Running Press</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>512</NumberOfPages>
+        <ProductGroup>Book</ProductGroup>
+        <PublicationDate>2009-03-10</PublicationDate>
+        <Publisher>Running Press</Publisher>
+        <Studio>Running Press</Studio>
+        <Title>The Mammoth Book of Tattoos</Title>
+    </ItemAttributes>
+    <ImageSets>
+        <ImageSet Category="primary">
+            <SwatchImage>
+                <URL>http://ecx.images-amazon.com/images/I/519SgX2wwDL._SL30_.jpg</URL>
+                <Height Units="pixels">30</Height>
+                <Width Units="pixels">22</Width>
+            </SwatchImage>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/519SgX2wwDL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">56</Width>
+            </SmallImage>
+            <ThumbnailImage>
+                <URL>http://ecx.images-amazon.com/images/I/519SgX2wwDL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">56</Width>
+            </ThumbnailImage>
+            <TinyImage>
+                <URL>http://ecx.images-amazon.com/images/I/519SgX2wwDL._SL110_.jpg</URL>
+                <Height Units="pixels">110</Height>
+                <Width Units="pixels">82</Width>
+            </TinyImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/519SgX2wwDL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">120</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/519SgX2wwDL._SL500_.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">375</Width>
+            </LargeImage>
+        </ImageSet>
+    </ImageSets>
+    <OfferSummary>
+        <LowestNewPrice>
+            <Amount>3998</Amount>
+            <CurrencyCode>USD</CurrencyCode>
+            <FormattedPrice>$39.98</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>4</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+    </OfferSummary>
+    <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/076243631X</MoreOffersUrl>
+        <Offer>
+            <OfferAttributes>
+                <Condition>New</Condition>
+            </OfferAttributes>
+            <OfferListing>
+                <OfferListingId>LYcccWDl3oNWXKkngMuydLjjKXsOR4AO2tGTdMW%2BNOA%2F%2FV61ektF%2FstkahL39vySB75wmcQJ7lsWOW3NAjVZpwgnQnxZE62sf%2B34NWSBuAzkkR7lCjtGLXn0aFfQ5KAGmNFYzScqWHSecKmnMA%2BuBA%3D%3D</OfferListingId>
+                <Price>
+                    <Amount>6000</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$60.00</FormattedPrice>
+                </Price>
+                <SalePrice>
+                    <Amount>4495</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$44.95</FormattedPrice>
+                </SalePrice>
+                <AmountSaved>
+                    <Amount>1505</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$15.05</FormattedPrice>
+                </AmountSaved>
+                <PercentageSaved>25</PercentageSaved>
+                <Availability>Usually ships in 1-2 business days</Availability>
+                <AvailabilityAttributes>
+                    <AvailabilityType>now</AvailabilityType>
+                    <MinimumHours>24</MinimumHours>
+                    <MaximumHours>48</MaximumHours>
+                </AvailabilityAttributes>
+                <IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+                <IsEligibleForPrime>0</IsEligibleForPrime>
+            </OfferListing>
+        </Offer>
+    </Offers>
+</Item>
