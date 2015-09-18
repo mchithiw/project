@@ -1,0 +1,138 @@
+html{
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: "Raleway", serif;
+	overflow-x: hidden;
+}
+
+.header{
+	position: fixed;
+	width: 100%;
+	height: 10%;
+	background-color: #422e83;
+	left: 0;
+	top: 0;
+	z-index: 3;
+}
+
+.title{
+	padding: 0;
+	margin: 0;
+	margin-left: 6%;
+	position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    color: white;
+}
+
+.container-single{
+	position: absolute;
+	width: 96%;
+	margin: auto;
+	top: 15%;
+	padding-bottom: 15px;
+}
+
+.main{
+	width: 30%;
+	float: right;
+}
+
+.main-content{
+	width: 60%;
+	margin-right: 5%;
+}
+
+.book{
+	padding-bottom: 5px;
+}
+
+.book-title{
+	font-weight: bold;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	color: blue;
+	font-size: 2em;
+	margin-top: 0;
+}
+
+.book-subtitle{
+	margin-top: 0;
+	font-size: 1.25em;
+	color: #422e83;
+}
+
+.book-desc{
+	line-height: 1.5;
+}
+
+.book-isbn{
+	font-size: .95em;
+}
+
+.category{
+	font-size: 1.25em;
+	color: #0553C9;
+	font-weight: bold;
+}
+
+.details{
+	color: #1B64DE;
+}
+
+a{
+    text-decoration: none;
+    color: #422e83;
+}
+
+.book-buy{
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #422e83;
+    color: white;
+    cursor: pointer;
+}
+
+.book-img-small{
+    display: none;
+}
+
+.book-buy:hover{
+    border: 2px solid blue;
+}
+
+@media (max-width: 800px) {
+
+	.book-title{
+		margin-top: 20px;
+	}
+
+	.container{
+		margin-top: 10px;
+	}
+
+	.main-content{
+		width: 90%;
+	}
+
+	.main{
+		float: left;
+	}
+    
+    .main-img{
+        width: 70%;
+    }
+    
+    .book-img{
+        display: none;
+    }
+    
+    .book-img-small{
+        display: block;
+    }
+
+}
